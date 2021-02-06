@@ -2,7 +2,7 @@
 <br />
 Hi, I'm Daniel Ludwig, a Full Stack Developer 🚀 from Germany, currently, i'm working for a company as PHP Developer.
 
-  <img align="right" alt="GIF" src="https://steamuserimages-a.akamaihd.net/ugc/548680779294299319/E82BA5D36F99836B4350262310C6231E65160EF3/" />
+  <img align="right" alt="GIF" src="https://media0.giphy.com/media/l0IylrgSxsjFn77W0/giphy.gif?cid=ecf05e471rucwod10tczy2emcgzgbzbs30w9mithnrgtzas1&rid=giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
