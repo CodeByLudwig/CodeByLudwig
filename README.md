@@ -1,12 +1,12 @@
 ### Hey 👋🏽, I'm [Daniel!](https://github.com/xXDaniel1109Xx) 
 <br />
-Hi, I'm Daniel Ludwig, a Full Stack Developer 🚀 from Germany, currently, i'm working for a company as PHP Developer.
+Hi, I'm Daniel Ludwig, a Full Stack Developer 🚀 from Germany, currently, i'm working for a company as an C# and Angular Developer.
 
   <img align="right" alt="GIF" src="https://media0.giphy.com/media/l0IylrgSxsjFn77W0/giphy.gif?cid=ecf05e471rucwod10tczy2emcgzgbzbs30w9mithnrgtzas1&rid=giphy.gif" />
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working on a ASP.NET projekt with [Jan](https://github.com/omgitsjan);
+- 👨🏽‍💻 I’m currently working on an ASP.NET projekt with [Jan](https://github.com/omgitsjan);
 - 🌱 I’m currently learning Vue.js; 
 - 👯 I’m open to collaborate;
 - 💬 Ask me about anything, I am happy to help;
