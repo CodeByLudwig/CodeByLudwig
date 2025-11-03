@@ -63,9 +63,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=codebyludwig&theme=vue-dark&show_icons=true" height="180em" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=codebyludwig&theme=vue-dark&hide_border=false" height="180em" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebyludwig&theme=vue-dark&hide_border=false&layout=compact&langs_count=8" height="180em" />
 </p>
 
