@@ -9,7 +9,7 @@
 ---
 
 ### 💫 About Me
-- 👨‍💻 Currently working on an **ASP.NET** project with *Jan*  
+- 👨‍💻 Currently working on an **React Native App** project  
 - 🌱 Learning **Vue.js** and exploring modern front-end ecosystems  
 - 🤝 Open to collaborate on exciting full stack projects  
 - 💬 Ask me about **C#**, **Angular**, or **.NET** — always happy to help!  
